@@ -235,15 +235,6 @@ function camelCase(str) {
 // }
 // console.log(scrub("Taurus"));
 
-// function scrub(str){
-//     let result = "";
-//     for(let i = 0; i < str.length; i++) {
-//         result = result + "*";
-//     }
-//     return result;
-// }
-// console.log(scrub("Taurus"));
-
 
 
  /********************************************
